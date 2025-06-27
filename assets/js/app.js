@@ -154,7 +154,7 @@ let footer = $(`
         </div>
     </div>
     <div style="margin-top: 20px; text-align: center;">
-    <a href="https://drive.google.com/file/d/1po678yL8oClKYWYBC-hlm62SaGOl4VvU/view?usp=sharing" target="_blank" style="
+    <a href="https://drive.google.com/file/d/1w0i3ZwRaKIEbjlykWz1Rj0HhVubkxzy7/view?usp=sharing" target="_blank" style="
         display: inline-block; 
         padding: 10px 20px; 
         background-color: #8e44ad; 
